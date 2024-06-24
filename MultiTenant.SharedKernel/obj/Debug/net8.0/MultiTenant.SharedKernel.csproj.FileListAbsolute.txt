@@ -1,0 +1,11 @@
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\bin\Debug\net8.0\MultiTenant.SharedKernel.deps.json
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\bin\Debug\net8.0\MultiTenant.SharedKernel.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\bin\Debug\net8.0\MultiTenant.SharedKernel.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\refint\MultiTenant.SharedKernel.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\ref\MultiTenant.SharedKernel.dll

@@ -1,0 +1,11 @@
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\bin\Debug\net8.0\Multitenant.Domain.deps.json
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\bin\Debug\net8.0\Multitenant.Domain.dll
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\bin\Debug\net8.0\Multitenant.Domain.pdb
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.dll
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\refint\Multitenant.Domain.dll
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.pdb
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\ref\Multitenant.Domain.dll
