@@ -1,0 +1,16 @@
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\bin\Debug\net8.0\MultiTenant.Application.deps.json
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\bin\Debug\net8.0\MultiTenant.Application.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\bin\Debug\net8.0\MultiTenant.Application.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\bin\Debug\net8.0\Multitenant.Domain.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\bin\Debug\net8.0\Multitenant.Domain.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.csproj.AssemblyReference.cache
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.AssemblyInfoInputs.cache
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.AssemblyInfo.cs
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.csproj.CoreCompileInputs.cache
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.sourcelink.json
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.csproj.CopyComplete
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\refint\MultiTenant.Application.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\MultiTenant.Application.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Application\obj\Debug\net8.0\ref\MultiTenant.Application.dll
