@@ -17,6 +17,6 @@ public class ApplicationContext
         _mongoDatabase = _mongoClient.GetDatabase(_mongoDbConfiguration?.DataBase);
     }
 
-    public IMongoCollection<Product> Product => _mongoDatabase.GetCollection<Product>("products");
+    public IMongoCollection<Product> Products => _mongoDatabase.GetCollection<Product>("products");
     public IMongoCollection<Tenant> Tenants => _mongoDatabase.GetCollection<Tenant>("Tenants");
 }

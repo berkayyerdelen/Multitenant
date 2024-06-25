@@ -17,17 +17,22 @@ public class ProductRepository : IProductRepository
     public Task<Product> Get(Guid uniqueId, CancellationToken cancellationToken = default)
     {
         var filter = new FilterDefinitionBuilder<Product>().Eq(x => x.UniqueId, uniqueId);
-        return _applicationContext.Product.FindSync(filter, new FindOptions<Product>(), cancellationToken).FirstOrDefaultAsync(cancellationToken);
+        return _applicationContext.Products.FindSync(filter, new FindOptions<Product>(), cancellationToken).FirstOrDefaultAsync(cancellationToken);
     }
 
     public async Task Add(Product product, CancellationToken cancellationToken = default)
     {
-        await _applicationContext.Product.InsertOneAsync(product,new InsertOneOptions(), cancellationToken);
+        await _applicationContext.Products.InsertOneAsync(product,new InsertOneOptions(), cancellationToken);
     }
 
     public Task<List<Product>> GetTenantProducts(Guid tenantId, CancellationToken cancellationToken = default)
     {
         var filter = new FilterDefinitionBuilder<Product>().Eq(x => x.TenantId, tenantId);
-        return _applicationContext.Product.FindSync(filter, new FindOptions<Product>(), cancellationToken).ToListAsync(cancellationToken);
+        return _applicationContext.Products.FindSync(filter, new FindOptions<Product>(), cancellationToken).ToListAsync(cancellationToken);
+    }
+
+    public Task<bool> Any(CancellationToken cancellationToken = default)
+    {
+       return _applicationContext.Products.Find(x => true).AnyAsync(cancellationToken);
     }
 }

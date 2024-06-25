@@ -1,5 +1,10 @@
+using Bogus;
 using MongoDB.Driver;
+using MultiTenant.Api.Configurations;
 using MultiTenant.Api.Middlewares;
+using MultiTenant.Application.Contracts;
+using MultiTenant.Application.Services;
+using Multitenant.Domain.Entities;
 using Multitenant.Domain.Repositories;
 using Multitenant.Infrastructure.Configurations;
 using Multitenant.Infrastructure.Persistence;
@@ -17,6 +22,8 @@ builder.Services.AddScoped<IMongoClient>(ctx => new MongoClient(mongoDbConfigura
 builder.Services.AddScoped(typeof(ApplicationContext));
 builder.Services.AddScoped<ITenantRepository, TenantRepository>();
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddSingleton<IStartupFilter, TenantSeeder>();
 // Add services to the container.
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -32,9 +39,11 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+
 app.UseHttpsRedirection();
 app.UseMiddleware<AuthorizationMiddleware>();
-// app.MapControllers();
 
 app.Run();
+
+
 

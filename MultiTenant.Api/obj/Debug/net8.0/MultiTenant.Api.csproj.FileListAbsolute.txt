@@ -50,3 +50,7 @@ C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\Multit
 C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\Multitenant.Infrastructure.dll
 C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\Multitenant.Domain.pdb
 C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\Multitenant.Infrastructure.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\Bogus.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\MultiTenant.Application.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\bin\Debug\net8.0\MultiTenant.Application.pdb
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.Api\obj\Debug\net8.0\MultiTenant.Api.sourcelink.json
