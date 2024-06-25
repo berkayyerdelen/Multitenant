@@ -10,3 +10,4 @@ C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\ref
 C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.pdb
 C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\ref\Multitenant.Domain.dll
 C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.sourcelink.json
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Domain\obj\Debug\net8.0\Multitenant.Domain.csproj.AssemblyReference.cache

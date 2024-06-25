@@ -237,6 +237,9 @@
         }
       },
       "Multitenant.Domain/1.0.0": {
+        "dependencies": {
+          "MongoDB.Driver": "2.26.0"
+        },
         "runtime": {
           "Multitenant.Domain.dll": {}
         }

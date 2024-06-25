@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multitenant.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67bcb95ac335618903fe11637bb55f0dff609c31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb9953616ca7c2f92aefd6a3550449c1e8fe328d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multitenant.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multitenant.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
