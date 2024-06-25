@@ -24,14 +24,14 @@ public class AuthorizationMiddleware : IMiddleware
             return;
         }
 
-        var tenantId = context.Request.Headers[Constants.Authorization.TenantId][0];
-        var tenantSecret = context.Request.Headers[Constants.Authorization.TenantSecret][0];
+        var tenantId = context.Request.Headers[Constants.Authorization.TenantId][0]!;
+        var tenantSecret = context.Request.Headers[Constants.Authorization.TenantSecret][0]!;
         var isValid = await _tenantRepository.ValidateAuthorization(new Guid(tenantId), tenantSecret);
 
         if (!isValid)
         {
             context.Response.StatusCode = 403;
-            await context.Response.WriteAsync("un authorized");
+            await context.Response.WriteAsync("unauthorized");
             return;
         }
         

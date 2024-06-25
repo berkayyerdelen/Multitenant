@@ -13,3 +13,4 @@ C:\Users\berka\RiderProjects\Multitenant\Multitenant.Infrastructure\obj\Debug\ne
 C:\Users\berka\RiderProjects\Multitenant\Multitenant.Infrastructure\obj\Debug\net8.0\refint\Multitenant.Infrastructure.dll
 C:\Users\berka\RiderProjects\Multitenant\Multitenant.Infrastructure\obj\Debug\net8.0\Multitenant.Infrastructure.pdb
 C:\Users\berka\RiderProjects\Multitenant\Multitenant.Infrastructure\obj\Debug\net8.0\ref\Multitenant.Infrastructure.dll
+C:\Users\berka\RiderProjects\Multitenant\Multitenant.Infrastructure\obj\Debug\net8.0\Multitenant.Infrastructure.sourcelink.json

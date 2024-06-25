@@ -9,3 +9,4 @@ C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8
 C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\refint\MultiTenant.SharedKernel.dll
 C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.pdb
 C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\ref\MultiTenant.SharedKernel.dll
+C:\Users\berka\RiderProjects\Multitenant\MultiTenant.SharedKernel\obj\Debug\net8.0\MultiTenant.SharedKernel.sourcelink.json
